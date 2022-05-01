@@ -1,0 +1,3 @@
+- 👋 Hi, We're @genGrinding
+- 👀 We're interested in programming and content creation
+- 🌱 I’m currently learning Java, Python, 
